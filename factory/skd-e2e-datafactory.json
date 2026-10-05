@@ -1,0 +1,15 @@
+{
+	"name": "skd-e2e-datafactory",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "15d61429-c84d-4c20-b95d-1a70e25de21d",
+		"tenantId": "46519e12-7304-4482-b265-be7e74ef5478"
+	}
+}
