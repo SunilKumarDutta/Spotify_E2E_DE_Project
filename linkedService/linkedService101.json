@@ -1,0 +1,17 @@
+{
+	"name": "linkedService101",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureSqlDatabase",
+		"typeProperties": {
+			"server": "skd-sql-server.database.windows.net",
+			"database": "skd-sql-database",
+			"encrypt": "mandatory",
+			"trustServerCertificate": false,
+			"authenticationType": "SQL",
+			"userName": "skdutta19",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQDJENERDNTc4LUUxN0MtNDZFMi1CRTFELUJERDQ4QzdCOUY2RV9lYmUwNjhkOC1kYTQzLTRmZmYtODdlNC1jNmQ1MjBkNjZhOTciDQp9"
+		}
+	}
+}
