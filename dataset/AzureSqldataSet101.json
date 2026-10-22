@@ -1,0 +1,12 @@
+{
+	"name": "AzureSqldataSet101",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "AzureSqlDatabase101",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzureSqlTable",
+		"schema": []
+	}
+}
